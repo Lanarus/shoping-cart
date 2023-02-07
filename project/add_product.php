@@ -35,8 +35,8 @@ if(isset($_COOKIE['user_id'])){
 <!--header section ends -->
 
 
-
-
+<<!-- sweet alert cdn link -->>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
 
 
 <!--script section starts -->
