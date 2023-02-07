@@ -17,6 +17,8 @@
          ?>
             <a href="shopping_cart.php" class="cart-btn">cart<span><?= $total_cart_items; ?></span></a>
         </nav>
+        
+        <div id="menu-btn" class="fas fa-bars"></div>
 
     </section>
 

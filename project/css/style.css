@@ -92,3 +92,9 @@ section{
     color: var(--black);
     border-radius: .5rem;
  }
+
+ #menu-btn{
+    font-size: 2.5rem;
+    color: var(--white);
+    display: none;
+ }
